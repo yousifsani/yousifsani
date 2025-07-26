@@ -1,5 +1,4 @@
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81dDh2aGpiNXRycngybHByemg5aXRrdnQ2MnozY3JmNDVqYTZ3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coding Banner" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW81dDh2aGpiNXRycngybHByemg5aXRrdnQ2MnozY3JmNDVqYTZ3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Coding Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Yousif Sani</h1>
@@ -9,10 +8,10 @@
 
 ---
 
-- 🔭 I’m currently working on [Basic Python Projects](https://github.com/yousifsani/basic-python-projects)  
-- 🌱 I’m currently learning **Machine Learning (ML)** and **Artificial Intelligence (AI)**  
+- 🔭 I'm currently working on [Basic Python Projects](https://github.com/yousifsani/basic-python-projects)  
+- 🌱 I'm currently learning **Machine Learning (ML)** and **Artificial Intelligence (AI)**  
 - 🤝 Open to discussions, collaborations, and projects in **ML, AI, IoT, and Embedded Systems**  
-- ⚡ Fun fact: *I don’t always follow the rules — just the efficient ones.*
+- ⚡ Fun fact: *I don't always follow the rules — just the efficient ones.*
 
 ---
 
@@ -36,18 +35,15 @@
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash" /></a>
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" height="50" alt="Raspberry Pi" /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" height="50" alt="MATLAB" /></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/3b8e2fac-4f5a-412e-ab5a-579a2c8bec49" height="50" alt="ROS"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/b8a92814-05ad-4812-91dc-6eff68f1136a""<img  height="50" alt="Kaggle" />
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" height="50" alt="Jupyter" />
-  <a href="#"><img src="https://github.com/user-attachments/assets/7bb0c07a-9cf3-4694-9172-807147c604d3" height="50"alt="Canva"  />
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=199gSvrFfCIJ&format=png&color=000000" height="50" alt="Anaconda" />
-  <a href="#"><img src="https://github.com/user-attachments/assets/74f97d0b-5bb1-4392-b2fa-3d7a59d3da67" height="50" alt="GitHub" />
-  <a href="#"><img src="https://github.com/user-attachments/assets/f3c06369-c64c-4523-941e-84aa46dd2d88" height="50" alt="Markdown" />
-  <a href="#"><img src="https://github.com/user-attachments/assets/a3a5f145-9347-43f7-9e72-6593b21be887" height="50" alt="" />
-    
+  <a href="#"><img src="https://github.com/user-attachments/assets/3b8e2fac-4f5a-412e-ab5a-579a2c8bec49" height="50" alt="ROS" /></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/b8a92814-05ad-4812-91dc-6eff68f1136a" height="50" alt="Kaggle" /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" height="50" alt="Jupyter" /></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/7bb0c07a-9cf3-4694-9172-807147c604d3" height="50" alt="Canva" /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=199gSvrFfCIJ&format=png&color=000000" height="50" alt="Anaconda" /></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/74f97d0b-5bb1-4392-b2fa-3d7a59d3da67" height="50" alt="GitHub" /></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/f3c06369-c64c-4523-941e-84aa46dd2d88" height="50" alt="Markdown" /></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/a3a5f145-9347-43f7-9e72-6593b21be887" height="50" alt="Additional Tool" /></a>
 </div>
-
-
 
 ---
 
